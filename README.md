@@ -1,1 +1,13 @@
-# tweets_analysis
+The notebooks in this repository are part of a larger academic research project that I did as my capstone assignment for graduate school. My project aimed to address the problem of widespread crime in Mexico by examining its high impunity index. While the state and researchers have developed ways to study and track criminal activity in the country, the estimates are widely acknowledged not to be precise figures due to the phenomenon of the "Cifras Negras" (Dark Figures), which is the underreporting of crime, and government corruption. As a result, I propose that scrapping social media posts, in this case Twitter posts, can serve as a valuable resource to either confirm, improve, or discredit mexican crimininal statistics produced by ENVIPE (National Survey on Victimization and Perception of Public Safety) and the Global Impunity Index for Mexico (IGI-MEX). 
+
+The rationale behind using Twitter is that it can serve as a database to collect specific tweets relating to criminal activity that is or has happened in Mexico. These tweets would then be analyzed with sentiment analysis that can help determine whether those tweets are used in a negative or positive context. Ideally, those negative tweets would have its geolocation, allowing them to be plotted on a map of Mexico. A high concentration of plotted tweets in a certain area could indicate the level of criminal activity, and those results can then be compared to crime statistics produced by state institutions. 
+
+**For a more detailed analysis on crime in Mexico and the advantages and shortcomings of using social media for tracking crime, I have attached my academic research paper. Please feel free to review!**
+
+
+**DISCLAIMER:**
+This code is provided for educational and research purposes only. The author is not responsible for any misuse of this code, including but not limited to scraping, processing, or analyzing data in a manner that violates the terms of service of any platform, or the use of the resulting data for malicious or unethical purposes.
+
+Users of this code are responsible for ensuring that they comply with applicable laws, regulations, and platform terms of service, including the Twitter Developer Agreement and Policy. By using this code, you agree to hold the author harmless from any and all liability arising from its use.
+
+I would also like to mention that I was quite new to python at the time and it was truly my first attempt on using it for an idea this big, so I apologize for any misuse of technical terminalogy and code disorganization in the notebooks. Nevertheless, I still feel confident about the work I produced. 
